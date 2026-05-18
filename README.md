@@ -1,1 +1,1 @@
-Pridect house pricies
+-- Pridect house pricies
